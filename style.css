@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+*{
+    margin:0px;
+    border:0px;
+}
+.navbar-brand{
+    font-family: 'Montez', cursive;
+    font-size: 3.5rem !important;
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+.textoCabecera{
+    font-family: 'Kalam', cursive !important;
+}
+
+.elementosfooter{
+    font-family: 'Kalam', cursive !important;
+    font-size: 1.5rem !important;
+    text-decoration: none !important;
+    color:antiquewhite !important;
+    border: 1rem !important;
+    margin: 2rem; 
+}
+
+footer{
+    text-align:center !important;
+    justify-content: space-between !important;
+}
+
+main{
+    background-color: rgb(171, 136, 204);
+}
+
+
+
+
